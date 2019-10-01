@@ -17,4 +17,7 @@
 <strong>Demo (for the above)</strong>
 - [How to Send HTTP Requests and Parse JSON Data Using Java](https://www.youtube.com/watch?v=qzRKa8I36Ww)
 
+<strong>Resources</strong>
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/) (Fake Online REST API for Testing and Prototyping)
+
 ## Terminal
