@@ -22,6 +22,8 @@
 
 ## Terminal
 
+- [Test a REST API with curl](https://www.baeldung.com/curl-rest)
+
 ## Nutritional information APIs
 
 - Edamam
