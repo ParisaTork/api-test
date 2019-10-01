@@ -21,3 +21,10 @@
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) (Fake Online REST API for Testing and Prototyping)
 
 ## Terminal
+
+## Nutritional information APIs
+
+- Edamam
+- FoodData Central (US Gov.)
+- MyFitnessPal
+- Nutritionix
