@@ -14,4 +14,7 @@
 - [Oracle HttpURLConnection docs](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/HttpURLConnection.html)
 - [Oracle HTTPClient docs](https://docs.oracle.com/en/java/javase/12/docs/api/java.net.http/java/net/http/package-summary.html)
 
+<strong>Demo (for the above)</strong>
+- [How to Send HTTP Requests and Parse JSON Data Using Java](https://www.youtube.com/watch?v=qzRKa8I36Ww)
+
 ## Terminal
