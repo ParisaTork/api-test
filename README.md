@@ -1,5 +1,9 @@
 # api-test (Java)
 
+## What is an API?
+
+- [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+
 ## Using IntelliJ IDE
 
 <strong>Sending HTTP Requests</strong>
