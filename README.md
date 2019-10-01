@@ -1,6 +1,6 @@
 # api-test (Java)
 
-## IDE
+## Using IntelliJ IDE
 
 <strong>Sending HTTP Requests</strong>
 - [Using java.net.HttpURLConnection - source code](https://github.com/ParisaTork/api-test/blob/HTTPURLCONNECTION/src/com/company/Main.java)
