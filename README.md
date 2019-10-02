@@ -112,4 +112,6 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Entries are ok, but the fields/categories we can query aren't that useful  
 ![Imgur](https://i.imgur.com/izscJY8l.png)
 - Spoonacular
+
+![Imgur](https://i.imgur.com/tE742xgl.png)
 - ESHA Nutrition Database API
