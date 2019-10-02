@@ -100,6 +100,8 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Strange entries e.g. 'apple' will return apple juice or apple slices
 - MyFitnessPal
   - No API key yet
+  - Great documentation
+  - Entries TBC
 - Nutritionix API
   - Instant API key
   - Documentation is not bad
