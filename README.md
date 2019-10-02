@@ -84,7 +84,9 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Search for an apple - ```https://api.nutritionix.com/v1_1/search/apple?appId={your app_id}&appKey={your app_key}```
   - Search for a 'banana' in Postman
   ![Imgur](https://i.imgur.com/LOp4vfNl.png)
-- Spoonacular
+- [Spoonacular](https://spoonacular.com/food-api/docs)
+  - Search for a random food joke
+  ![Imgur](https://i.imgur.com/T7rnRF7l.png)
 - [ESHA Nutrition Database API](https://nutrition-api-dev.esha.com/docs/services/nutrition-api/operations/food-search)
 
 ## Nutritional information APIs by features/limits
