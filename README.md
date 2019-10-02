@@ -76,6 +76,10 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
 
 - [Edamam Food Database API](https://developer.edamam.com/food-database-api-docs)
   - Search for a 'red apple' - ```'https://api.edamam.com/api/food-database/parser?ingr=red%20apple&app_id={your app_id}&app_key={your app_key}'```
+  
+![Imgur](https://i.imgur.com/DuNErfhl.png)
+
+
 - FoodData Central (US Gov.)
 - MyFitnessPal
 - Nutritionix
