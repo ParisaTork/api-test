@@ -60,13 +60,10 @@ Uses a client ID and a client key for authentication -  N.B. replace client_id +
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) (Fake Online REST API for Testing and Prototyping)
 
 ## Terminal
-- GET - ```curl -v http://google.com```
-- POST - ```curl -d 'id=0&name=google' http://google.com/search/new```
-- POST (in JSON) - ```curl -d '{"id":0,"name":"google"}' -H 'Content-Type: application/json' http://google.com/search/new```
-- PUT - ```curl -d @request.json -H 'Content-Type: application/json' -X PUT http://google.com/posts/1```
-- DELETE - ```curl -X DELETE http://google.com/posts/1```
 
-Source: [Test a REST API with curl](https://www.baeldung.com/curl-rest)
+![Imgur](https://i.imgur.com/28RjR3Bl.png)
+
+Source: https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html
 
 
 ## Postman (a collaboration platform for API development)
