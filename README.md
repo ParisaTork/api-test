@@ -81,5 +81,6 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
 - FoodData Central (US Gov.)
 - MyFitnessPal (API Key is a WIP)
 - [Nutritionix API](https://developer.nutritionix.com/docs/v1_1)
+  - Search for an apple - ```https://api.nutritionix.com/v1_1/search/apple?appId={your app_id}&appKey={your app_key}```
   - Search for a 'banana' in Postman
   ![Imgur](https://i.imgur.com/LOp4vfNl.png)
