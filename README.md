@@ -75,7 +75,7 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
 ## Nutritional information APIs
 
 - [Edamam Food Database API](https://developer.edamam.com/food-database-api-docs)
-  - Search for a 'red apple' - ```'https://api.edamam.com/api/food-database/parser?ingr=red%20apple&app_id={your app_id}&app_key={your app_key}'```
+  - Search for a 'red apple' - ```https://api.edamam.com/api/food-database/parser?ingr=red%20apple&app_id={your app_id}&app_key={your app_key}```
   - Search for a 'banana' in Postman
 ![Imgur](https://i.imgur.com/DuNErfhl.png)
 - FoodData Central (US Gov.)
@@ -85,7 +85,7 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Search for a 'banana' in Postman
   ![Imgur](https://i.imgur.com/LOp4vfNl.png)
 - [Spoonacular](https://spoonacular.com/food-api/docs)
-  - Search for a random food joke
+  - Search for a random food joke - ```https://api.spoonacular.com/food/jokes/random?apiKey={your app_key}```
   ![Imgur](https://i.imgur.com/VtrLglQl.png)
 - [ESHA Nutrition Database API](https://nutrition-api-dev.esha.com/docs/services/nutrition-api/operations/food-search)
 
