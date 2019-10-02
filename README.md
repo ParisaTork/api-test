@@ -18,19 +18,19 @@
 
 **API Authentication**
 
-- curl -H "Authorization: token OAUTH-TOKEN" https://api.github.com
+- ```curl -H "Authorization: token OAUTH-TOKEN" https://api.github.com```
 
 Uses a token for authentication - N.B. replace OAUTH-TOKEN in real life
 
-- curl https://api.github.com/?access_token=OAUTH-TOKEN
+- ```curl https://api.github.com/?access_token=OAUTH-TOKEN```
 
 Also uses a token for authentication - N.B. replace OAUTH-TOKEN in real life
 
-- curl 'https:api.github.com/users/whatever?client_id=xxxx&client_secret=yyyy'
+- ```curl 'https:api.github.com/users/whatever?client_id=xxxx&client_secret=yyyy'```
 
 Uses a client ID and a client secret for authentication -  N.B. replace client_id + client_secret in real life
 
-- curl 'https:api.github.com/users/whatever?client_id=xxxx&client_key=yyyy'
+- ```curl 'https:api.github.com/users/whatever?client_id=xxxx&client_key=yyyy'```
 
 Uses a client ID and a client key for authentication -  N.B. replace client_id + client_key in real life
 
