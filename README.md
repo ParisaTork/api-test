@@ -81,5 +81,5 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
 
 
 - FoodData Central (US Gov.)
-- MyFitnessPal
+- MyFitnessPal (API Key is a WIP)
 - Nutritionix
