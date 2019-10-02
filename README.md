@@ -107,8 +107,7 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
 - Nutritionix API
   - Instant API key
   - Documentation is not bad
-  - Entries are ok, but the fields/categories we can query aren't that useful
+  - Entries are ok, but the fields/categories we can query aren't that useful  
+![Imgur](https://i.imgur.com/izscJY8l.png)
 - Spoonacular
 - ESHA Nutrition Database API
-  
-![Imgur](https://i.imgur.com/izscJY8l.png)
