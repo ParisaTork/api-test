@@ -112,6 +112,12 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Entries are ok, but the fields/categories we can query aren't that useful  
 ![Imgur](https://i.imgur.com/izscJY8l.png)
 - Spoonacular
+  - Instant API key
+  - Documentation is very good
+  - API is recipe-orientated, so it might not suit our needs as a whole foods nutritional information web app
 
 ![Imgur](https://i.imgur.com/tE742xgl.png)
 - ESHA Nutrition Database API
+  - Instant API key
+  - Documentation is variable in quality
+  - Entries are good
