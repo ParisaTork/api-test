@@ -28,6 +28,8 @@
 
 - [Test a REST API with curl](https://www.baeldung.com/curl-rest)
 
+## Postman (a collaboration platform for API development)
+
 ## Nutritional information APIs
 
 - Edamam
