@@ -4,6 +4,13 @@
 
 - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 
+## HTTP Methods
+
+- GET: **Retrieve data from a specified resource** e.g. browser client makes GET requests every day by going to a specific server URI a.k.a. a website
+- POST: **Submit data to be processed to a specified resource** e.g. filling out webforms, form tags in HTML can take an action (page you're submitting to) and a method attribute (GET/POST etc.)
+- PUT: **Update a specified resource** - e.g. updating a blog post - N.B. you would need to send requests to an endpoint/URI with an ID for that specific resource
+- 
+
 ## Using IntelliJ IDE
 
 <strong>Sending HTTP Requests</strong>
