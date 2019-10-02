@@ -84,3 +84,17 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Search for an apple - ```https://api.nutritionix.com/v1_1/search/apple?appId={your app_id}&appKey={your app_key}```
   - Search for a 'banana' in Postman
   ![Imgur](https://i.imgur.com/LOp4vfNl.png)
+
+## Nutritional information APIs by features/limits
+- Edamam Food Database API
+  - Instant API key
+  - Good documentation
+  - Good entries, because of Natural Language Processing
+  
+![Imgur](https://i.imgur.com/vwk9lStl.png)
+ 
+  
+- FoodData Central
+  - Instant API key
+  - Confusing documentation
+  - Strange entries e.g. 'apple' will return apple juice or apple slices
