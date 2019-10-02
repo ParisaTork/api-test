@@ -68,7 +68,7 @@ Uses a client ID and a client key for authentication -  N.B. replace client_id +
 Source: https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html
 
 
-## Postman (a collaboration platform for API development)
+## Postman (a collaboration platform/GUI for API development)
 
 Source: https://www.taniarascia.com/making-api-requests-postman-curl/
 
