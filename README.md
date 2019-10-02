@@ -98,3 +98,11 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Instant API key
   - Confusing documentation
   - Strange entries e.g. 'apple' will return apple juice or apple slices
+- MyFitnessPal
+  - No API key yet
+- Nutritionix API
+  - Instant API key
+  - Documentation is not bad
+  - Entries are ok, but the fields/categories we can query aren't that useful
+  
+![Imgur](https://i.imgur.com/izscJY8l.png)
