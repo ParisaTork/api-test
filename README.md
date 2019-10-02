@@ -14,6 +14,10 @@
 - _**OPTIONS**_: **Returns the supported HTTP methods of a server**
 - _**PATCH**_: **Update partial resources**
 
+**Terminology**
+
+- **Endpoints** - The URI/URL where an API/service can be accessed by a client application e.g. ```https://mysite.com/api/users```
+
 ## Using IntelliJ IDE
 
 <strong>Sending HTTP Requests</strong>
