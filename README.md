@@ -84,6 +84,8 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Search for an apple - ```https://api.nutritionix.com/v1_1/search/apple?appId={your app_id}&appKey={your app_key}```
   - Search for a 'banana' in Postman
   ![Imgur](https://i.imgur.com/LOp4vfNl.png)
+- Spoonacular
+- [ESHA Nutrition Database API](https://nutrition-api-dev.esha.com/docs/services/nutrition-api/operations/food-search)
 
 ## Nutritional information APIs by features/limits
 - Edamam Food Database API
@@ -106,5 +108,7 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   - Instant API key
   - Documentation is not bad
   - Entries are ok, but the fields/categories we can query aren't that useful
+- Spoonacular
+- ESHA Nutrition Database API
   
 ![Imgur](https://i.imgur.com/izscJY8l.png)
