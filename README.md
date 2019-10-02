@@ -68,6 +68,8 @@ Source: https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html
 
 ## Postman (a collaboration platform for API development)
 
+Source: https://www.taniarascia.com/making-api-requests-postman-curl/
+
 ## Nutritional information APIs
 
 - Edamam
