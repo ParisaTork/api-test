@@ -86,7 +86,7 @@ Source: https://www.taniarascia.com/making-api-requests-postman-curl/
   ![Imgur](https://i.imgur.com/LOp4vfNl.png)
 - [Spoonacular](https://spoonacular.com/food-api/docs)
   - Search for a random food joke - ```https://api.spoonacular.com/food/jokes/random?apiKey={your app_key}```
-  ![Imgur](https://i.imgur.com/VtrLglQl.png)
+ ![Imgur](https://i.imgur.com/VtrLglQl.png)
 - [ESHA Nutrition Database API](https://nutrition-api-dev.esha.com/docs/services/nutrition-api/operations/food-search)
 
 ## Nutritional information APIs by features/limits
