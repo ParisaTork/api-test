@@ -34,6 +34,14 @@ Uses a client ID and a client secret for authentication -  N.B. replace client_i
 
 Uses a client ID and a client key for authentication -  N.B. replace client_id + client_key in real life
 
+- ```curl 'https:api.github.com/users/whatever?apiKey=yyyy'```
+
+Uses a client key for authentication -  N.B. replace client_key in real life
+
+Example:
+
+![Imgur](https://i.imgur.com/FMvhraal.png)
+
 **Terminology**
 
 - **Endpoints** - The URI/URL where an API/service can be accessed by a client application e.g. ```https://mysite.com/api/users```
